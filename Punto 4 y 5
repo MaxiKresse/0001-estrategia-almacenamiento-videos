@@ -1,0 +1,19 @@
+
+Punto 4-.
+Opción A: Almacenamiento en la nube con CDN (Red de Entrega de Contenido):Utilizar un servicio de almacenamiento en la nube como AWS S3 o Google CloudStorage, 
+combinado con una CDN para la entrega eficiente de los videos a los usuarios.
+Elegimos la Opcion A ya que analizando cual de las opciones conviene como empresa y viendo los distintos puntos a favor y en contra. Pudimos llegar a la conclusión en base a nuestro presupuesto, 
+ya que no tenemos que costear servidores y hardware para almacenas los videos si no un servicio externo mensual. 
+A pesar de las multiples ventajas existe un contra, el equipo no se encuentra totalmente educado en el uso de estos servicios por lo que es necesario que se capaciten para entender y sepan ocupar de manera
+eficiente el servicio
+
+Punto 5-.
+Impacto en el desarrollo: Se requerirá integrar con la API del proveedor de la nube y configurar la CDN para asegurar la entrega y la protección contra descargas. 
+Impacto en el mantenimiento: El mantenimiento físico de la infraestructura será responsabilidad del proveedor de la nube, liberando tiempo para nuestro equipo. 
+Impacto en los costos: Se incurrirá en costos operativos mensuales de almacenamiento y transferencia de datos, pero se evitarán los grandes costos de hardware y mantenimiento de servidores propios. 
+Riesgos: Se genera dependencia de un proveedor externo y existe un posible aumento de costos a largo plazo si el tráfico de estudiantes crece considerablemente. 
+
+
+Glosario
+CDN --> Grupo de servidores distribuidos geográficamente que almacenan copias de archivos web (imágenes, vídeos, HTML, CSS) cerca de los usuarios. Su función principal es acelerar la carga de 
+sitios web y mejorar la seguridad al reducir la distancia física que viajan los datos. 
